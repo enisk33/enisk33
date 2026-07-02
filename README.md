@@ -13,7 +13,7 @@ I completed a **7–8 month volunteer internship**, where I gained hands-on expe
 **Auranix** is my currently live demo project: a personalized product design platform where users can upload a photo, generate AI-powered visuals, and preview the result on products such as t-shirts, mugs, canvas prints, and magnets.
 
 <a href="https://auranix.vercel.app/demo">
-  <img src="./assets/tanitim.png" alt="Auranix Demo Preview" width="100%" />
+  <img src="./assets/auranix-preview.png" alt="Auranix Demo Preview" width="100%" />
 </a>
 
 **Live Demo:** https://auranix.vercel.app/demo
@@ -31,7 +31,7 @@ For product previews, Auranix uses a separate **FastAPI + OpenCV rendering servi
 
   <br />
 
-  <img src="./assets/tanitim2.png" alt="Auranix Product Preview" width="100%" />
+  <img src="./assets/auranix-preview-2.png" alt="Auranix Product Preview" width="100%" />
 </details>
 
 ---
